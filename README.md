@@ -4,6 +4,9 @@
 
 ---
 
+⭐ If you like this project, consider giving it a star!
+
+
 ## 📌 Project Overview
 
 | Item | Detail |
@@ -22,7 +25,7 @@
 ```
 loan-approval-prediction/
 │
-├── loan_prediction.ipynb          # Main Jupyter Notebook│
+├── loan_prediction.ipynb          # Main Jupyter Notebook
 ├── outputs/
 │   └── plots/
 │       ├── countplot.png          # Class distribution
@@ -124,7 +127,7 @@ Data Loading → EDA → Visualization → Data Cleaning → Preprocessing → M
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
+git clone https://github.com/abhii026/loan-approval-prediction.git
 
 # 2. Navigate into the folder
 cd loan-approval-prediction
@@ -153,7 +156,7 @@ jupyter notebook loan_prediction.ipynb
 
 **Abhishek Singh**   
 B.Tech CSE | 2026  
-📧 Connect on [LinkedIn]([(https://www.linkedin.com/in/abhii026/)])
+📧Connect on [LinkedIn](https://www.linkedin.com/in/abhii026/)
 
 ---
 
