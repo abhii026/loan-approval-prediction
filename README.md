@@ -151,10 +151,9 @@ jupyter notebook loan_prediction.ipynb
 
 ## 👤 Author
 
-**Abhishek Singh**  
-Registration No: 12406001  
+**Abhishek Singh**   
 B.Tech CSE | 2026  
-📧 Connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+📧 Connect on [LinkedIn]([(https://www.linkedin.com/in/abhii026/)])
 
 ---
 
