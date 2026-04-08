@@ -22,10 +22,7 @@
 ```
 loan-approval-prediction/
 │
-├── loan_prediction.ipynb          # Main Jupyter Notebook
-├── loan_approval_research_paper.docx  # Research Paper (Word)
-├── loan_approval_research_paper.pdf   # Research Paper (PDF)
-│
+├── loan_prediction.ipynb          # Main Jupyter Notebook│
 ├── outputs/
 │   └── plots/
 │       ├── countplot.png          # Class distribution
