@@ -26,6 +26,8 @@
 loan-approval-prediction/
 │
 ├── loan_prediction.ipynb          # Main Jupyter Notebook
+├── model/
+│   └── loan_model.pkl         # Saved trained model
 ├── outputs/
 │   └── plots/
 │       ├── countplot.png          # Class distribution
