@@ -25,18 +25,24 @@
 ```
 loan-approval-prediction/
 │
-├── loan_prediction.ipynb          # Main Jupyter Notebook
+├── loan_prediction.ipynb              # Main Jupyter Notebook (ML pipeline)
+├── loan_approval_prediction.pdf       # Research paper documentation
+│
 ├── model/
-│   └── loan_model.pkl         # Saved trained model
+│   └── loan_model.pkl                # Saved trained model
+│
 ├── outputs/
 │   └── plots/
-│       ├── countplot.png          # Class distribution
-│       ├── histograms.png         # Feature distributions
-│       ├── boxplots.png           # Feature vs Loan Outcome
-│       ├── heatmap.png            # Correlation heatmap
-│       └── confusion_matrix.png   # Model evaluation
+│       ├── countplot.png             # Class distribution
+│       ├── histograms.png            # Feature distributions
+│       ├── boxplots.png              # Feature vs Loan Outcome
+│       ├── heatmap.png               # Correlation heatmap
+│       └── confusion_matrix.png      # Model evaluation
 │
-└── README.md
+├── README.md                         # Project documentation
+├── LICENSE                           # MIT License
+├── .gitignore                        # Ignore unnecessary files
+
 ```
 
 ---
